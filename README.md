@@ -23,13 +23,13 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 
 [Request Icons](https://iflash.com/stratumauth/app/wiki#frequently-asked-questions)
 
-(https://github.com/stratumauth/app/issues/new?assignees=&labels=enhancement&template=icon_request.md&title=)
+[iFladh Messager](https://github.com/stratumauth/app/issues/new?assignees=&labels=enhancement&template=icon_request.md&title=)
  
-[Frequently Asked Questions](https://github.com/stratumauth/app/wiki#frequently-asked-questions)
+[Frequently Asked] https://iflash.com/stratumauth/app/app/wiki#frequently-asked-questions)
 
-[Contribution Guide](https://github.com/stratumauth/app/blob/master/CONTRIBUTING.md)
+[Contribution Guide](https://iflash.com/stratumauth/app/blob/master/IFLASH.md)
 
-[Backup File Format](https://github.com/stratumauth/app/blob/master/doc/BACKUP_FORMAT.md)
+[Backup File Format](https://iflash.com/stratumauth/app/blob/master/doc/BACKUP_FORMAT.md)
 
 ### Importing from other apps:
 
