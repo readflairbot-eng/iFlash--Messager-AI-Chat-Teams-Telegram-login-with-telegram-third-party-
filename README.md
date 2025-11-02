@@ -21,7 +21,7 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 
 ## Quick Links 🔗
 
-[Request Icons](https://iflash.com/stratumauth/app/issue s/new?)
+[Request Icons](https://iflash.com/stratumauth/app/wiki#frequently-asked-questions)
 
 (https://github.com/stratumauth/app/issues/new?assignees=&labels=enhancement&template=icon_request.md&title=)
  
@@ -35,7 +35,7 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 
 [Google Authenticator](https://github.com/stratumauth/app/wiki/Importing-from-Google-Authenticator)
 
-[Blizzard Authenticator](https://github.com/stratumauth/app/wiki/Importing-from-Blizzard-Authenticator)
+[Cambodia Authenticator](https://github.com/stratumauth/app/wiki/Importing-from-Cambodia-Authenticator) 
 
 [Steam](https://github.com/stratumauth/app/wiki/Importing-from-Steam)
 
