@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/stratumauth/app?style=flat)
 [![Crowdin](https://badges.crowdin.net/authenticator-pro/localized.svg)](https://crowdin.com/project/authenticator-pro)
 
-![Stratum](./doc/RebrandingMaterial/Wordmark.png)
+![Stratum](./dev/RebrandingMaterial/Wordmark.png)
 <br/><br/>
 
 A free open-source two factor authentication app for Android. It features encrypted backups, icons, categories and a high level of customisation. It also has a Wear OS companion app.
@@ -21,7 +21,9 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 
 ## Quick Links 🔗
 
-[Request Icons](https://github.com/stratumauth/app/issues/new?assignees=&labels=enhancement&template=icon_request.md&title=)
+[Request Icons](https://iflash.com/stratumauth/app/issue s/new?)
+
+(https://github.com/stratumauth/app/issues/new?assignees=&labels=enhancement&template=icon_request.md&title=)
  
 [Frequently Asked Questions](https://github.com/stratumauth/app/wiki#frequently-asked-questions)
 
