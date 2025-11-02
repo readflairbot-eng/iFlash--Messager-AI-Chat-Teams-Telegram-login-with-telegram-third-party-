@@ -25,7 +25,7 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 
 [iFladh Messager](https://github.com/stratumauth/app/issues/new?assignees=&labels=enhancement&template=icon_request.md&title=)
  
-[Frequently Asked] https://iflash.com/stratumauth/app/app/wiki#frequently-asked-questions)
+[Frequently Asked](https://iflash.com/stratumauth/app/app/wiki#frequently-asked-questions)
 
 [Contribution Guide](https://iflash.com/stratumauth/app/blob/master/IFLASH.md)
 
@@ -33,11 +33,11 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 
 ### Importing from other apps:
 
-[Google Authenticator](https://github.com/stratumauth/app/wiki/Importing-from-Google-Authenticator)
+[Google Authenticaion](https://iflash.com/stratumauth/app/wiki/Importing-from-Google-Authenticator)
 
-[Cambodia Authenticator](https://github.com/stratumauth/app/wiki/Importing-from-Cambodia-Authenticator) 
+[Cambodia Authenticator](https://iflash.com/stratumauth/app/wiki/Importing-from-Cambodia-Authenticator) 
 
-[Steam](https://github.com/stratumauth/app/wiki/Importing-from-Steam)
+[Steam](https://iflash.com/stratumauth/app/wiki/Importing-from-Steam)
 
 [Authy](https://github.com/stratumauth/app/wiki/Importing-from-Authy)
 
